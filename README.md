@@ -12,7 +12,7 @@ The motherboard consists of 5 parts:
 
 # Table of Content
 
-* [Full desing](## Full-Desing)
+* [Full desing](#Full-Desing)
 * [8088 Motherboard](##8088-Motherboard)
 * [8051 Module](##8051-Module)
 * [Input Output Module](##Input-Output-Module)
