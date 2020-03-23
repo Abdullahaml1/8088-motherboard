@@ -10,19 +10,21 @@ The motherboard consists of 5 parts:
 3. The input output module.
 4. two memories.
 
+# Table of Content
+
+* [Full desing](##Full-Desing)
+* [8088 Motherboard](##8088-Motherboard)
+* [8051 Module](##8051-Module)
+* [Input Output Module](##Input-Output-Module)
+* [Memories](##Memories)
+
+
+## Full Desing
 
 ![top view](design-photos/motherboard_top.jpg)
 
 ![side view](design-photos/motherboard_top.jpg)
 
-
-
-# Table of Content
-
-[# 8088 Motherboard](8088-Motherboard)
-[# 8051 Module](8051-Module)
-[# Input Output Module](Input-Output-Module)
-[# Memories](Memories)
 
 
 
